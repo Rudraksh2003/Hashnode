@@ -5,7 +5,7 @@ from flask import request as req
 
 app = Flask(__name__)
 
-API_TOKEN = "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" 
+API_TOKEN = "" 
 
 @app.route("/", methods=["GET", "POST"])
 def Index():
