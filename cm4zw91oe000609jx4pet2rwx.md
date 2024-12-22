@@ -1,10 +1,10 @@
 ---
-title: "The Magic of Multi-Node Kubernetes Setup: Organising Your Resources"
+title: "The Magic of Multi-Node Kubernetes Setup: Organizing Your Resources"
 datePublished: Sun Dec 22 2024 17:40:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm4zw91oe000609jx4pet2rwx
 slug: the-magic-of-multi-node-kubernetes-setup-organising-your-resources
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734888980440/eb63d92d-2fc6-44a4-9d4f-ad157bc876e0.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734889211746/11168337-3013-425e-b039-4af0efcf824e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734892741848/9c41c53f-5477-4c33-bd72-b831381201a7.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1734892759106/54a36868-5c48-495d-aff4-3294592f4491.png
 tags: microservices, kubernetes, devops, node, containers, containerization, devops-articles, kubernetes-container, kubernetes-architecture
 
 ---
@@ -111,7 +111,7 @@ Similarly, you can create configurations for other nodes based on their labels.
 
 ### Conclusion
 
-A multi-node Kubernetes setup is a powerful way to organise and manage workloads. By labelling nodes based on their roles, you can streamline operations, improve performance, and reduce downtime. So, next time you need to locate or manage a specific pod, you’ll know exactly where to look—just like finding the smallest fruit in a well-organised basket.
+A multi-node Kubernetes setup is a powerful way to organise and manage workloads. By labelling nodes based on their roles, you can streamline operations, improve performance, and reduce downtime. So, next time you need to locate or manage a specific pod, you’ll know exactly where to look—just like finding the smallest fruit in a well-organized basket.
 
 ---
 
