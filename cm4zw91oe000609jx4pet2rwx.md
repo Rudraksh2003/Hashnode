@@ -112,3 +112,7 @@ Similarly, you can create configurations for other nodes based on their labels.
 ### Conclusion
 
 A multi-node Kubernetes setup is a powerful way to organise and manage workloads. By labelling nodes based on their roles, you can streamline operations, improve performance, and reduce downtime. So, next time you need to locate or manage a specific pod, you’ll know exactly where to look—just like finding the smallest fruit in a well-organised basket.
+
+---
+
+Thank you for reading!
