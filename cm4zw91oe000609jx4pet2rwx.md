@@ -9,7 +9,7 @@ tags: microservices, kubernetes, devops, node, containers, containerization, dev
 
 ---
 
-Imagine you have a basket full of diverse food items. If someone asks for the smallest fruit, you might have to dig through the entire basket to find it, which takes time. But if you organize the items into separate baskets—one for fruits, another for vegetables, and a third for pickles—you can easily locate what you need. This concept of organisation is the key to efficiency, and Kubernetes achieves a similar feat with nodes in a multi-node setup.
+Imagine you have a basket full of diverse food items. If someone asks for the smallest fruit, you might have to dig through the entire basket to find it, which takes time. But if you organize the items into separate baskets—one for fruits, another for vegetables, and a third for pickles—you can easily locate what you need. This concept of organization is the key to efficiency, and Kubernetes achieves a similar feat with nodes in a multi-node setup.
 
 ![scrum kanban GIF by Stoneham Press](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFqOG5yYnA0cW9hZG0xZW1pOTY2cGg5NTViMWNoOWZhOXo4Y3pzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PbFp1FmxteXsc/giphy.gif align="left")
 
@@ -111,7 +111,7 @@ Similarly, you can create configurations for other nodes based on their labels.
 
 ### Conclusion
 
-A multi-node Kubernetes setup is a powerful way to organise and manage workloads. By labelling nodes based on their roles, you can streamline operations, improve performance, and reduce downtime. So, next time you need to locate or manage a specific pod, you’ll know exactly where to look—just like finding the smallest fruit in a well-organized basket.
+A multi-node Kubernetes setup is a powerful way to organize and manage workloads. By labelling nodes based on their roles, you can streamline operations, improve performance, and reduce downtime. So, next time you need to locate or manage a specific pod, you’ll know exactly where to look—just like finding the smallest fruit in a well-organized basket.
 
 ---
 
