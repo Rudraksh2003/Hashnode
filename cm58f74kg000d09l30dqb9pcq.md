@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Mastery: Frontend and Backend (Node.js & Express.js)"
+title: "JavaScript"
 datePublished: Sat Dec 28 2024 16:52:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm58f74kg000d09l30dqb9pcq
 slug: javascript-mastery-frontend-and-backend-nodejs-expressjs
@@ -23,12 +23,16 @@ JavaScript is a high-level, versatile programming language primarily used for cr
     
 * **Dynamic Applications**: Adds interactivity and real-time features.
     
+* ![a man wearing glasses and a quilted jacket says it 's going to be interesting](https://media1.tenor.com/m/tKhBAkEogNMAAAAd/its-going-to-be-interesting-austin-evans.gif align="left")
+    
 
 ---
 
 ## Core JavaScript Fundamentals
 
 ### 1\. Variables
+
+![a woman in a red dress is holding a microphone and saying you get an undefined variable](https://media1.tenor.com/m/OBHUhQp0MjwAAAAC/arma-variable.gif align="left")
 
 Used to store and manipulate data. Declared using `let`, `const`, or `var`.
 
@@ -66,6 +70,8 @@ console.log(counter); // Output: 10
 
 ### 2\. Data Types
 
+![a man is sitting on a couch with a laptop](https://media1.tenor.com/m/hRIocoioQMwAAAAd/friends-chandler-bing.gif align="left")
+
 JavaScript has two categories of data types:
 
 * **Primitive**: `String`, `Number`, `Boolean`, `Null`, `Undefined`, `Symbol`, `BigInt`
@@ -90,6 +96,8 @@ const person = { name: "Alice", age: 30 };  // Object
 
 ### 3\. Operators
 
+![kermit the frog talking on a telephone with the words hello operator on the bottom](https://media1.tenor.com/m/J7eKDOZNijQAAAAd/kermit-phone-call.gif align="left")
+
 * **Arithmetic**: `+`, `-`, `*`, `/`, `%`
     
 * **Comparison**: `==`, `===`, `!=`, `!==`, `>`, `<`
@@ -110,6 +118,8 @@ console.log(10 === "10"); // false (strict equality)
     
 
 ### 4\. Control Flow
+
+![a man on a boat with the words control control uday below him](https://media1.tenor.com/m/iXhV4Mntu74AAAAd/welcome-control-uday.gif align="left")
 
 #### Conditional Statements
 
@@ -153,6 +163,8 @@ switch(day) {
     
 
 ### 5\. Loops
+
+![a man is thinking in front of a purple circle that says the loop](https://media1.tenor.com/m/UsK6ucMjCS8AAAAd/out-of-loop.gif align="left")
 
 #### For Loop
 
