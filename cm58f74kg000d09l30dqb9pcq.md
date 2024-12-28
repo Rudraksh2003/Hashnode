@@ -1,5 +1,5 @@
 ---
-title: "JavaScript"
+title: "JavaScript Mastery"
 datePublished: Sat Dec 28 2024 16:52:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm58f74kg000d09l30dqb9pcq
 slug: javascript-mastery-frontend-and-backend-nodejs-expressjs
