@@ -14,7 +14,7 @@ Effective resource management is an indispensable element in modern distributed 
 
 Autoscaling in Kubernetes entails the automated regulation of computational resources allocated to workloads in response to real-time demand fluctuations. Its principal objective is to achieve an equilibrium between resource consumption and application requirements, thereby averting resource over-allocation or under-provisioning.
 
-![this is a meme which represend demands base autoscaling in kubernetes](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRoa293bzE2ejV6amd0bTZyaWJ5Z29qbjkxamxkZmVvYjlkamRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z6HOKmRAN9XQdZpuc0/giphy.gif align="left")
+![this is a meme which represent demands base autoscaling by kubernetes](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRoa293bzE2ejV6amd0bTZyaWJ5Z29qbjkxamxkZmVvYjlkamRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z6HOKmRAN9XQdZpuc0/giphy.gif align="left")
 
 #### **Types of Autoscaling in Kubernetes**
 
@@ -31,7 +31,7 @@ While this article focuses on HPA and VPA, it is crucial to understand how they 
 
 ### **Strategic Importance of Autoscaling**
 
-![Strategic Importance of Autoscaling in kubernetes](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1hMWRiZ3YwNWloMGVwdmhvMW9icWk2bTEzaWozcHQzZmxodHY4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26hkhHMHwnnUqL8TC/giphy.gif align="left")
+![Strategic Importance of Autoscaling by the help of kubernetes](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1hMWRiZ3YwNWloMGVwdmhvMW9icWk2bTEzaWozcHQzZmxodHY4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26hkhHMHwnnUqL8TC/giphy.gif align="left")
 
 1. **Resource Utilisation Efficiency:** Autoscaling dynamically adjusts resource allocation, ensuring optimal utilisation of CPU, memory, and other critical resources.
     
