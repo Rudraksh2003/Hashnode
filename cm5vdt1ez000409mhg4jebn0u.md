@@ -3,7 +3,7 @@ title: "Autoscaling in Kubernetes: An Advanced Analysis of HPA and VPA"
 datePublished: Mon Jan 13 2025 18:32:43 GMT+0000 (Coordinated Universal Time)
 cuid: cm5vdt1ez000409mhg4jebn0u
 slug: autoscaling-in-kubernetes-an-advanced-analysis-of-hpa-and-vpa
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZfVyuV8l7WU/upload/d5a74e38ace6a37092e3253249e839d7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736795653124/1e76f218-e966-4821-a5df-9b6d74abd851.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736795632528/01de6f18-61a5-4feb-b74c-b5d32dcddf81.png
 tags: kubernetes, devops, devops-articles, kubernetes-container, vertical-scaling, kubernetes-architecture, kubernetes-persistent-volumes, kubeweekchallenge, horizontal-pod-autoscaler
 
