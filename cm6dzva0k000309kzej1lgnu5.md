@@ -5,7 +5,7 @@ cuid: cm6dzva0k000309kzej1lgnu5
 slug: how-long-does-an-api-take-to-fetch-or-update-data-on-a-website-and-how-can-we-optimise-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737917634389/4eb10130-4248-4c93-857c-dfb39f8e0047.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737918574890/79edf607-cc3a-4234-9a8c-962399395c33.png
-tags: javascript, technology, web-development, apis, webdev, devops, frontend-development, load-balancing, devops-articles, backend-developments
+tags: javascript, technology, web-development, apis, webdev, devops, frontend-development, load-balancing, devops-articles, backend-developments, chaiaurcode, chaicode
 
 ---
 
