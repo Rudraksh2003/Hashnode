@@ -3,8 +3,8 @@ title: "Why Software Engineers Exist in the Age of AI"
 datePublished: Sun Mar 30 2025 18:37:26 GMT+0000 (Coordinated Universal Time)
 cuid: cm8vzfud1000309l1eeoqazqd
 slug: why-software-engineers-exist-in-the-age-of-ai
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743359761131/9f718cee-7129-44e5-9f12-d7c6baa0570a.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743359834723/c6871e86-93d9-40aa-8bb6-b44bf888626e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743360969794/e848d416-9fd8-4f11-bdd9-500adcee7254.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743360986505/7b6f90b7-9dca-4d35-808d-2d0e86c2a3a5.png
 tags: ai, aws, javascript, technology, data-science, machine-learning, developer, coding, devops, future, technical-writing-1, techwithrudraksh, vibe-coding
 
 ---
