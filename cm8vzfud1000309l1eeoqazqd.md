@@ -5,7 +5,7 @@ cuid: cm8vzfud1000309l1eeoqazqd
 slug: why-software-engineers-exist-in-the-age-of-ai
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1743359761131/9f718cee-7129-44e5-9f12-d7c6baa0570a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1743359834723/c6871e86-93d9-40aa-8bb6-b44bf888626e.png
-tags: ai, technology, developer, coding, devops, future, technical-writing-1, techwithrudraksh, vibe-coding
+tags: ai, aws, javascript, technology, data-science, machine-learning, developer, coding, devops, future, technical-writing-1, techwithrudraksh, vibe-coding
 
 ---
 
