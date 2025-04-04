@@ -29,6 +29,8 @@ It’s easy to say that software engineers will just be reduced to maintainers, 
 
 A few years ago, Wix promised that people wouldn’t need developers to build websites. Yet, today, skilled frontend and backend engineers are still in high demand. Similarly, AI may automate coding tasks, but **understanding system design, choosing the right tools, and solving real-world problems require human expertise**.
 
+%%[ad] 
+
 ### The Future of Software Engineers
 
 So, what’s the future of software engineering? Should we be worried? **Not at all.**
